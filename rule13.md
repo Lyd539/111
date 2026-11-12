@@ -1,4 +1,4 @@
-#The Elements of Style#
+# The Elements of Style
 
 William Strunk, Jr. (1918)
 
